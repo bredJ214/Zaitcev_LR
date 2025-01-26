@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Zaitcev_LR",
-      "program": "c:/Zaitcev_LR/build/Debug/outDebug",
+      "program": "c:/Zaitcev_LR/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
